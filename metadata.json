@@ -1,0 +1,8 @@
+{
+  "name": "AutoIntel Robotics – Where Machines Learn",
+  "description": "A professional AI-native platform for humanoid robotics education, industrial insights, and technical design patterns.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
